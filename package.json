@@ -1,0 +1,21 @@
+{
+    "name": "spacedust",
+    "displayName": "Spacedust",
+    "description": "Based on Gogh's Proyect Spacedust Color Scheme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Spacedust",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Spacedust-color-theme.json"
+            }
+        ]
+    }
+}
