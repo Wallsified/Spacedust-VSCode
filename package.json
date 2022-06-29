@@ -1,8 +1,12 @@
 {
     "name": "spacedust",
     "displayName": "Spacedust",
-    "description": "Based on Gogh's Proyect Spacedust Color Scheme",
     "version": "0.0.1",
+    "publisher": "Wallsified",
+    "description": "Based on Gogh's Proyect Spacedust Color Scheme",
+    "author": {
+        "name": "Daniel Paredes"
+    },
     "engines": {
         "vscode": "^1.66.0"
     },
@@ -17,5 +21,15 @@
                 "path": "./themes/Spacedust-color-theme.json"
             }
         ]
-    }
+    },
+      "license": "SEE LICENSE IN LICENSE.txt",
+      "bugs": {
+        "url": "https://github.com/Wallsified/Spacedust-VSCode/issues",
+        "email": "danielparedes@ciencias.unam.mx"
+      },
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/Wallsified/Spacedust-VSCode/"
+      },
+      "homepage": "https://github.com/Wallsified/Spacedust-VSCode/"
 }
